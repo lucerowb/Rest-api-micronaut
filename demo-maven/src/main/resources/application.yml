@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: demo
+
+datasource:
+  default:
+    driver-class-name: org.postgresql.Driver
+      url: jdbc:postgresql://localhost:5432/htmlgen
+      username: postgres
+      password: 8520
